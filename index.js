@@ -164,6 +164,12 @@ Print in the console the data from each car in the carsForSale array.
 
 /* WRITE YOUR CODE HERE */
 console.log(carsForSale)
+// or
+console.log(carsForSale[0])
+console.log(carsForSale[1])
+console.log(carsForSale[2])
+// or
+console.log(carsForSale[0], carsForSale[1], carsForSale[2])
 /* WHEN YOU ARE FINISHED
 Send the code on the Eduflow platform. In the next days we'll also learn how to use GIT
 */
